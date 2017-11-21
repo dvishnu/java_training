@@ -1,4 +1,4 @@
-//table using for loop  
+//table using for loop!!!!! 
 class table
 {
     public static void main (String[] args) {
