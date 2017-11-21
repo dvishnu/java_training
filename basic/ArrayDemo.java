@@ -1,5 +1,5 @@
 // Java program to demonstrate default values of array
-// elements ................
+// elements .........
 class ArrayDemo
 {
     public static void main(String[] args)
