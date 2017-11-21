@@ -1,3 +1,4 @@
+//dog
 class dog
 {
     void shout()
